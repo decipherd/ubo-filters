@@ -2,4 +2,6 @@
 ! Homepage: https://github.com/decipherd/ubo-filters
 
 ! ===== Reddit ======
+
+! Hide "People also ask about" (Reddit Answers) + related posts below comments (Mobile web)
 www.reddit.com###mosaic-pdp-feed
