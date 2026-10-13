@@ -1,0 +1,5 @@
+! Title: My Custom Filters
+! Homepage: https://github.com/decipherd/ubo-filters
+
+! ===== Reddit ======
+www.reddit.com###mosaic-pdp-feed
