@@ -5,3 +5,5 @@
 
 ! Hide "People also ask about" (Reddit Answers) + related posts below comments (Mobile web)
 www.reddit.com###mosaic-pdp-feed
+! Hide "Suggested videos" overlay at the end of video
+www.reddit.com##faceplate-partial[name^="RecommendedMediaOverlay"]
